@@ -1,0 +1,36 @@
+*{
+    background-color:#010101;
+    color: white;
+}
+h1{
+    color: #61dafb;
+    text-align: center;
+    padding: 150;
+    font-size: 50px;
+    font-weight: 500;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+h3{
+    padding: 40px;
+    font-size: 30px;
+    font-weight: 300;
+    text-decoration: underline;
+    text-decoration-color: teal;
+}
+p{
+    
+    color: #fefefe;
+    padding-left: 50px;
+    padding-right: 150px;
+    font-size: 25px;
+    font-weight: 250;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
